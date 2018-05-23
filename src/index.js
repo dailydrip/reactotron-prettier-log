@@ -3,8 +3,8 @@ if (__DEV__ && console.tron) {
     features: {
       plog: (title, value) => {
         console.tron.display({
-          important: true,
-          name: `🔴 Prettier Log 🔴 - ${title}`,
+          name: `🔴 Prettier Log 🔴`,
+          preview: title,
           value
         });
       }
