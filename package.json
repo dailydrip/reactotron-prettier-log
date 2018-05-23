@@ -1,0 +1,26 @@
+{
+  "name": "reactotron-prettier-log",
+  "version": "1.0.0",
+  "description": "Reactotron Prettier Log",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dailydrip/react-native-prettier-log.git"
+  },
+  "keywords": [
+    "reactotron",
+    "log",
+    "react",
+    "native",
+    "react"
+  ],
+  "author": "Smooth Terminal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dailydrip/react-native-prettier-log/issues"
+  },
+  "homepage": "https://github.com/dailydrip/react-native-prettier-log#readme"
+}
