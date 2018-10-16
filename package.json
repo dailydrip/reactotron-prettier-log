@@ -1,6 +1,6 @@
 {
   "name": "reactotron-prettier-log",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Reactotron Prettier Log",
   "main": "src/index.js",
   "scripts": {
@@ -11,7 +11,13 @@
     "type": "git",
     "url": "git+https://github.com/dailydrip/react-native-prettier-log.git"
   },
-  "keywords": [ "reactotron", "log", "react", "native", "react" ],
+  "keywords": [
+    "reactotron",
+    "log",
+    "react",
+    "native",
+    "react"
+  ],
   "author": "Smooth Terminal",
   "license": "MIT",
   "bugs": {
